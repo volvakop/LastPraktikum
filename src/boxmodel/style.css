@@ -1,0 +1,19 @@
+/* box model */
+
+body{
+    background-color: darkslategray;
+    color: white;
+}
+
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+    margin: 100px 
+}
+
+.App{
+    display: flex;
+    flex-direction: row;
+    
+}
